@@ -3,7 +3,6 @@
 //= require jquery3
 //= require headroom
 //= require bootstrap-sprockets
-//= require turbolinks
 //= require popper
 //= require toastr
 //= require Chart.bundle
