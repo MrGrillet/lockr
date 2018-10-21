@@ -1,0 +1,22 @@
+
+
+
+
+ /* #toast-container > .toast-success {
+   background-color: #000;
+ }
+
+ #toast-container > .toast-info {
+   background-color: #000;
+ }
+
+ #toast-container > .toast-error {
+   background-color: red;
+ } */
+
+
+.food-colour {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
